@@ -2,16 +2,16 @@
 
 I'm passionate about *Data, Decision Intelligence & Analytics* and love working on cool projects that solve real-world problems.
 
-## 🚀 **Cool Things I Do**
+## **Cool Things I Do**
 ✅ **Data-Driven Problem Solving** – I love breaking down complex problems and finding solutions.  
 ✅ **Storytelling with Data** – Transforming numbers into narratives that make an impact.  
 ✅ **Automating Insights** – Making reports smarter, not harder. 
 
-## 🔥 A Quick Intro:
-- 🎯 **What I Am:** Analyst | Data Enthusiast | Problem Solver
-- 💡 **Currently Exploring:** Advanced Machine Learning models, Gen AI and LLMs
-- 🎓 **Education:** BS Computer Science | University of Missouri-Kansas City
-- ⚡ **Fun Fact:** I'm fascinated by how businesses make data-driven decisions and want to master it!
+## A Quick Intro:
+- **What I Am:** Analyst | Data Enthusiast | Problem Solver
+- **Currently Exploring:** Advanced Machine Learning models, Gen AI and LLMs
+- **Education:** BS Computer Science | University of Missouri-Kansas City
+- **Fun Fact:** I'm fascinated by how businesses make data-driven decisions and want to master it!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjana__iyengar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-alaham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanaalaham01@gmail.com) 
